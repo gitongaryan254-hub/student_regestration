@@ -109,4 +109,4 @@ def main():
     print("Saved_to_students.txt and students.json")
 
 if __name__ == "__main__":
-    main()# student_regestration
+    main()# student_info_system
